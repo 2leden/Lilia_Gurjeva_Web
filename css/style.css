@@ -14,7 +14,24 @@ body {
 
 html {
     scroll-behavior: smooth;
+
 }
+
+/* TRANSITION */
+
+A, .btn {
+transition: all 300ms ease;
+}
+
+/* FLEXBOX */
+
+.parent{
+    display:flex
+}
+.child{
+    flex-basis: auto;
+}
+
 /* header {
     text-align: center;
 } */
