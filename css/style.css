@@ -1,9 +1,19 @@
+/* GENERAL */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+
 body {
+    font-family: "PT Serif", serif;;
     background-color: #3366cc;
 }
 * {
     margin: 0;
     padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 /* header {
     text-align: center;
