@@ -35,6 +35,12 @@ transition: all 300ms ease;
     flex-basis: auto;
 }
 
+/* FONTS */
+
+main h1 {
+    color: blueviolet;
+    font-size: 20;
+}
 /* header {
     text-align: center;
 } */
